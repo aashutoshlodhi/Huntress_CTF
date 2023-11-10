@@ -4,5 +4,5 @@ The “Comprezz” challenge brings us face-to-face with an intriguing mystery: 
 
 ![huntress ctf games_challenges](https://github.com/aashutoshlodhi/Huntress_CTF/assets/66505006/a9bc7f3f-f01b-45a6-aee2-83c4462a02ce)
 
-## Description
+### Description
 Someone stole my S's and replaced them with Z's! Have you ever seen this kind of file before?
